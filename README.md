@@ -26,6 +26,7 @@ Welcome to my repository of LeetCode solutions! This is a collection of my solut
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -41,4 +42,8 @@ Welcome to my repository of LeetCode solutions! This is a collection of my solut
 | ------- |
 | [0075-sort-colors](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0268-missing-number) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
