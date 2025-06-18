@@ -69,9 +69,14 @@ Welcome to my repository of LeetCode solutions! This is a collection of my solut
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
 | [2032-largest-odd-number-in-string](https://github.com/Arnab02H/DSA-Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/Arnab02H/DSA-Leetcode/tree/master/2032-largest-odd-number-in-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
