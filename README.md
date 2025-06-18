@@ -32,6 +32,7 @@ Welcome to my repository of LeetCode solutions! This is a collection of my solut
 | ------- |
 | [0050-powx-n](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0268-missing-number) |
+| [2032-largest-odd-number-in-string](https://github.com/Arnab02H/DSA-Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -65,4 +66,12 @@ Welcome to my repository of LeetCode solutions! This is a collection of my solut
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0053-maximum-subarray) |
+## String
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/Arnab02H/DSA-Leetcode/tree/master/2032-largest-odd-number-in-string) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/Arnab02H/DSA-Leetcode/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
