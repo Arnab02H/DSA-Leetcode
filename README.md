@@ -13,6 +13,7 @@ Welcome to my repository of LeetCode solutions! This is a collection of my solut
 | [0075-sort-colors](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0136-single-number) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0283-move-zeroes) |
 ## Two Pointers
@@ -35,6 +36,7 @@ Welcome to my repository of LeetCode solutions! This is a collection of my solut
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
