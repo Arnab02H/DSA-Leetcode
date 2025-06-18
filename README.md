@@ -70,6 +70,7 @@ Welcome to my repository of LeetCode solutions! This is a collection of my solut
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
+| [0812-rotate-string](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0812-rotate-string) |
 | [2032-largest-odd-number-in-string](https://github.com/Arnab02H/DSA-Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
 |  |
@@ -79,4 +80,8 @@ Welcome to my repository of LeetCode solutions! This is a collection of my solut
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
