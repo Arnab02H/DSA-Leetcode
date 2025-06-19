@@ -17,6 +17,7 @@ Welcome to my repository of LeetCode solutions! This is a collection of my solut
 | [0268-missing-number](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0416-partition-equal-subset-sum](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0792-binary-search](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0792-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
@@ -41,6 +42,7 @@ Welcome to my repository of LeetCode solutions! This is a collection of my solut
 | [0033-search-in-rotated-sorted-array](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0268-missing-number) |
+| [0792-binary-search](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
