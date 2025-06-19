@@ -31,6 +31,7 @@ Welcome to my repository of LeetCode solutions! This is a collection of my solut
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0268-missing-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Arnab02H/DSA-Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Binary Search
@@ -66,6 +67,7 @@ Welcome to my repository of LeetCode solutions! This is a collection of my solut
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 ## String
 |  |
 | ------- |
@@ -84,4 +86,8 @@ Welcome to my repository of LeetCode solutions! This is a collection of my solut
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0812-rotate-string) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
