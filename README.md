@@ -86,6 +86,7 @@ Welcome to my repository of LeetCode solutions! This is a collection of my solut
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0020-valid-parentheses) |
 | [0812-rotate-string](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0812-rotate-string) |
 | [2032-largest-odd-number-in-string](https://github.com/Arnab02H/DSA-Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
@@ -109,4 +110,8 @@ Welcome to my repository of LeetCode solutions! This is a collection of my solut
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Arnab02H/DSA-Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
