@@ -69,6 +69,7 @@ Welcome to my repository of LeetCode solutions! This is a collection of my solut
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0206-reverse-linked-list) |
 ## Backtracking
 |  |
 | ------- |
@@ -118,5 +119,6 @@ Welcome to my repository of LeetCode solutions! This is a collection of my solut
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
