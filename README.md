@@ -73,6 +73,7 @@ Welcome to my repository of LeetCode solutions! This is a collection of my solut
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0206-reverse-linked-list) |
 ## Backtracking
@@ -86,6 +87,7 @@ Welcome to my repository of LeetCode solutions! This is a collection of my solut
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0198-house-robber) |
@@ -96,12 +98,14 @@ Welcome to my repository of LeetCode solutions! This is a collection of my solut
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0020-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0044-wildcard-matching) |
 | [0812-rotate-string](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0812-rotate-string) |
 | [1250-longest-common-subsequence](https://github.com/Arnab02H/DSA-Leetcode/tree/master/1250-longest-common-subsequence) |
 | [2032-largest-odd-number-in-string](https://github.com/Arnab02H/DSA-Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0044-wildcard-matching) |
 | [2032-largest-odd-number-in-string](https://github.com/Arnab02H/DSA-Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
 |  |
