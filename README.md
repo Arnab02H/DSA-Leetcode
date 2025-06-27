@@ -90,6 +90,7 @@ Welcome to my repository of LeetCode solutions! This is a collection of my solut
 | [0044-wildcard-matching](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -102,6 +103,7 @@ Welcome to my repository of LeetCode solutions! This is a collection of my solut
 | [0014-longest-common-prefix](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0044-wildcard-matching) |
+| [0115-distinct-subsequences](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0115-distinct-subsequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0812-rotate-string](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0812-rotate-string) |
