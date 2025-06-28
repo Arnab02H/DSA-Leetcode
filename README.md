@@ -24,6 +24,7 @@ Welcome to my repository of LeetCode solutions! This is a collection of my solut
 | [0485-max-consecutive-ones](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0792-binary-search) |
+| [1046-max-consecutive-ones-iii](https://github.com/Arnab02H/DSA-Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Arnab02H/DSA-Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Two Pointers
 |  |
@@ -59,6 +60,7 @@ Welcome to my repository of LeetCode solutions! This is a collection of my solut
 | [0268-missing-number](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0792-binary-search) |
+| [1046-max-consecutive-ones-iii](https://github.com/Arnab02H/DSA-Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Arnab02H/DSA-Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Bit Manipulation
 |  |
@@ -144,4 +146,12 @@ Welcome to my repository of LeetCode solutions! This is a collection of my solut
 | [0142-linked-list-cycle-ii](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0908-middle-of-the-linked-list) |
+## Sliding Window
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/Arnab02H/DSA-Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/Arnab02H/DSA-Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
