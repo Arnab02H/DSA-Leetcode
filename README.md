@@ -15,6 +15,7 @@ Welcome to my repository of LeetCode solutions! This is a collection of my solut
 | [0074-search-a-2d-matrix](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0078-subsets) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0169-majority-element) |
@@ -101,6 +102,7 @@ Welcome to my repository of LeetCode solutions! This is a collection of my solut
 | [0053-maximum-subarray](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0115-distinct-subsequences) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0516-longest-palindromic-subsequence) |
