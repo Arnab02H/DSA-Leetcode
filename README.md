@@ -7,6 +7,7 @@ Welcome to my repository of LeetCode solutions! This is a collection of my solut
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -34,6 +35,7 @@ Welcome to my repository of LeetCode solutions! This is a collection of my solut
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0141-linked-list-cycle) |
@@ -130,6 +132,7 @@ Welcome to my repository of LeetCode solutions! This is a collection of my solut
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0044-wildcard-matching) |
 | [2032-largest-odd-number-in-string](https://github.com/Arnab02H/DSA-Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
