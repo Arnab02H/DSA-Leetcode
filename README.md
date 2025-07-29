@@ -27,6 +27,7 @@ Welcome to my repository of LeetCode solutions! This is a collection of my solut
 | [0485-max-consecutive-ones](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0792-binary-search) |
+| [1019-squares-of-a-sorted-array](https://github.com/Arnab02H/DSA-Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/Arnab02H/DSA-Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Arnab02H/DSA-Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Arnab02H/DSA-Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -39,6 +40,7 @@ Welcome to my repository of LeetCode solutions! This is a collection of my solut
 | [0142-linked-list-cycle-ii](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0283-move-zeroes](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1019-squares-of-a-sorted-array](https://github.com/Arnab02H/DSA-Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Arnab02H/DSA-Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -82,6 +84,7 @@ Welcome to my repository of LeetCode solutions! This is a collection of my solut
 | [0169-majority-element](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0268-missing-number) |
+| [1019-squares-of-a-sorted-array](https://github.com/Arnab02H/DSA-Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Recursion
 |  |
 | ------- |
