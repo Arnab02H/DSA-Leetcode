@@ -1,9 +1,11 @@
+from collections import defaultdict
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
-        s=set()
-        for i in range(len(nums)):
-            if nums[i] in s:
+        temp=defaultdict()
+        for i in nums:
+            if i not in temp:
+                temp[i]=1
+            else:
                 return True 
-            s.add(nums[i])
-        return False 
+        return False
         
