@@ -22,6 +22,7 @@ Welcome to my repository of LeetCode solutions! This is a collection of my solut
 | [0169-majority-element](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -179,6 +180,7 @@ Welcome to my repository of LeetCode solutions! This is a collection of my solut
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1046-max-consecutive-ones-iii](https://github.com/Arnab02H/DSA-Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Counting
 |  |
