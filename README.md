@@ -38,6 +38,7 @@ Welcome to my repository of LeetCode solutions! This is a collection of my solut
 | [0011-container-with-most-water](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0283-move-zeroes](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0283-move-zeroes) |
@@ -125,6 +126,7 @@ Welcome to my repository of LeetCode solutions! This is a collection of my solut
 | [0020-valid-parentheses](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0044-wildcard-matching) |
 | [0115-distinct-subsequences](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0516-longest-palindromic-subsequence](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0583-delete-operation-for-two-strings) |
