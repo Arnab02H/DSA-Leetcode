@@ -52,6 +52,7 @@ Welcome to my repository of LeetCode solutions! This is a collection of my solut
 | [0142-linked-list-cycle-ii](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -85,6 +86,7 @@ Welcome to my repository of LeetCode solutions! This is a collection of my solut
 | [0075-sort-colors](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/Arnab02H/DSA-Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Recursion
@@ -123,6 +125,7 @@ Welcome to my repository of LeetCode solutions! This is a collection of my solut
 | [0020-valid-parentheses](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0044-wildcard-matching) |
 | [0115-distinct-subsequences](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0115-distinct-subsequences) |
+| [0242-valid-anagram](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0516-longest-palindromic-subsequence](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0812-rotate-string](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0812-rotate-string) |
