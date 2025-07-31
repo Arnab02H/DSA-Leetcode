@@ -17,6 +17,7 @@ Welcome to my repository of LeetCode solutions! This is a collection of my solut
 | [0075-sort-colors](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0169-majority-element) |
@@ -51,6 +52,7 @@ Welcome to my repository of LeetCode solutions! This is a collection of my solut
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0169-majority-element) |
@@ -203,4 +205,8 @@ Welcome to my repository of LeetCode solutions! This is a collection of my solut
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
