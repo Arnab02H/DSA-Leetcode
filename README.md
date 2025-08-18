@@ -56,6 +56,7 @@ Welcome to my repository of LeetCode solutions! This is a collection of my solut
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -67,6 +68,7 @@ Welcome to my repository of LeetCode solutions! This is a collection of my solut
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0189-rotate-array) |
@@ -135,6 +137,7 @@ Welcome to my repository of LeetCode solutions! This is a collection of my solut
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0044-wildcard-matching) |
