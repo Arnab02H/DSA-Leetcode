@@ -33,6 +33,7 @@ Welcome to my repository of LeetCode solutions! This is a collection of my solut
 | [0485-max-consecutive-ones](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1019-squares-of-a-sorted-array](https://github.com/Arnab02H/DSA-Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/Arnab02H/DSA-Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Arnab02H/DSA-Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -86,6 +87,7 @@ Welcome to my repository of LeetCode solutions! This is a collection of my solut
 | [0268-missing-number](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Arnab02H/DSA-Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/Arnab02H/DSA-Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Arnab02H/DSA-Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Bit Manipulation
